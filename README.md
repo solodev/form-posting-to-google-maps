@@ -2,7 +2,7 @@
 If your webpage relies on the user getting directions to a specific location, you may want to post that inquiry to Google Maps so that the user can get immediate (and largely) accurate descriptions.
 
 ## Tutorial
-For detailed instruction's, view Solodev's [Creating a Form that Posts to Google Maps](https://www.solodev.com/blog/web-design/creating-a-form-that-posts-to-google-maps.stml) article.
+For detailed instruction's, view Solodev's [How to Create a Form that Posts to Google Maps](https://www.solodev.com/blog/web-design/how-to-create-a-form-that-posts-to-google-maps.stml) article.
 
 ## Demo
 Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/do8yLvc7/).
